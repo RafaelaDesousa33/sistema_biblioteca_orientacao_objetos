@@ -3,6 +3,9 @@
 Este repositório contém um projeto de estudo desenvolvido em Python com foco em Programação Orientada a Objetos (POO).  
 O sistema simula o funcionamento básico de uma biblioteca e tem como principal objetivo reforçar conceitos fundamentais da linguagem e do paradigma orientado a objetos.
 
+![Sistema Biblioteca - Orientação a Objetos](sistema_biblioteca_orientacao_objetos_foto.png)
+
+
 ---
 
 ## Objetivo do Projeto
